@@ -14,5 +14,6 @@ a:hover {
     color: darkgreen;
 }
 a:visited {
-    color: lightgreen;
+    text-decoration: none;
+    color: yellowgreen;
 }
