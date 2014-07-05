@@ -2,12 +2,12 @@ body {
     background-color: black;
     color: lightgreen;
     font-family: monospace;
-    font-size: 24px;
-    line-height: 24px;
+    line-height: 18px;
 }
 
 a:link {
     color: lightgreen;
+    font-size:24px;
     text-decoration: none;
 }
 a:hover {
@@ -15,4 +15,13 @@ a:hover {
 }
 a:visited {
     color: yellowgreen;
+}
+
+/* dashed-note:  encapsulates 64 characters per line in a dashed border. */
+p.dashed-note {
+    width: 512px;
+    padding: 5px;
+    
+    border: 5px gray dashed;    
+    margin-left:245px;
 }
