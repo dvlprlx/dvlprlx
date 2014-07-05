@@ -7,18 +7,34 @@
       <!-- Meta data -->
       <meta charset="utf-8">
       <meta http-equiv="refresh" content="3">
+      <meta name="author" content="dvlprlx">
       <meta name="description" content="See what dvlprlx is doing.">
+      <meta name="keywords" content="dvlprlx">
   </head>
 
     <body>
         
+      <header>
         <!-- Links -->
-      <center>
-        <a href="http://dvlprlx.github.io/">Home</a>
+        <a href="http://dvlprlx.github.io/">dvlprlx</a>
         <a href="http://dvlprlx.github.io/about.html">About</a>
         <a href="http://dvlprlx.github.io/entries.html">Entries</a>
-        <a href="http://dvlprlx.github.io/programs-made.html">Programs Made</a>
-      </center>
+        <a href="http://dvlprlx.github.io/projects.html">Projects</a>
+        </header>
+      <!-- Welcome text -->
+      
+      <p align="center" class="dashed-note">
+        This is where the information about me and this site is found. 
+          
+      <br/></p>
+      
+      <footer>
+        <hr/>
+        <p align="center">
+          Copyright 2014 - 2014 by dvlprlx.<br/><br/>
+          All rights reserved.</p>
+      </footer>
+      
   </body>
 
 </html>

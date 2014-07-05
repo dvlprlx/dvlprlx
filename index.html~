@@ -7,42 +7,46 @@
       <!-- Meta data -->
       <meta charset="utf-8">
       <meta http-equiv="refresh" content="3">
+      <meta name="author" content="dvlprlx">
       <meta name="description" content="See what dvlprlx is doing.">
+      <meta name="keywords" content="dvlprlx">
   </head>
 
     <body>
         
-    
-      <!-- Links -->
-      <center>
-        <a href="http://dvlprlx.github.io/">Home</a>
+      <header>
+        <!-- Links -->
+        <a href="http://dvlprlx.github.io/">dvlprlx</a>
         <a href="http://dvlprlx.github.io/about.html">About</a>
         <a href="http://dvlprlx.github.io/entries.html">Entries</a>
         <a href="http://dvlprlx.github.io/projects.html">Projects</a>
-      </center>
-
+        </header>
       <!-- Welcome text -->
       
-      <p class="note" align="center">
+      <p align="center" class="dashed-note">
         Welcome to dvlprlx, a personal site where I put my activities; my   
         successes,
         failures and tips (if any) about a certain 
         topic.<br/><br/>
-        
+          
         This site is developed using HTML5 and CSS.<br/><br/>
-        
+          
         Take note that as of July 5, 2014 beautiful style that most<br/>
         visitors prefer is not my concern. I lack time anyway.<br/><br/>
         
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         --dvlprlx [Sat 15:29, July 5, 2014]
-        
-        <br/><br/>
-      </p>
-
+          
+      <br/><br/></p>
+      
+      <footer>
+        <hr/>
+        <p align="center">
+          Copyright 2014 - 2014 by dvlprlx.<br/><br/>
+          All rights reserved.</p>
+      </footer>
+      
   </body>
 
 </html>
