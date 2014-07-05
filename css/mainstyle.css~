@@ -11,10 +11,10 @@ a:link {
     text-decoration: none;
 }
 a:hover {
-    color: yellowgreen;
+    color: darkgreen;
 }
 a:visited {
-    color: darkgreen;
+    color: yellowgreen;
 }
 
 /* dashed-note:  encapsulates characters in a dashed border. */
@@ -23,10 +23,7 @@ p.dashed-note {
     width: 512px;
     padding: 5px;
     
-    margin-left:200px;
+    margin-left:250px;
     
 }
 
-div.main-links {
-
-}
