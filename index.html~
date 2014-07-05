@@ -7,52 +7,18 @@
         <!-- Meta data -->
         <meta charset="utf-8">
         <meta http-equiv="refresh" content="3">
-        <meta name="description" content="This is my really, really, REALLY exciting web page about air conditioners">
+        <meta name="description" content="See what dvlprlx is doing.">
     </head>
 
     <body>
-        <!-- Under maintenance text -->
-        <p>
-            Welcome to dvlprlx, it's a site where I (dvlprlx), post my
-            successes, failures and even tips from my experiences. (if any)
-            <br/><br/>
-
-            Unfortunately, I lacked skills to make this site beautiful so it will
-            take time to complete this site.
-            <br/><br/>
-
-            This site is hosted by Github Pages and developed by dvlprlx. 
-            <br/><br/>
-
-            I'll be learning a lot of skills to make this site better, till then
-            this site is still empty. <br/><br/>
-        </p>
-
-        <p>
-            Skills I'll learn:
-       
-            <ol>
-                <li>Web Development Skills Programming Languages</li>
-                <ul>
-                    <li>HTML</li>
-		            <li>CSS</li>
-	                <li>JavaScript</li>
-                </ul>
-
-                <li>Software Development Programming Languages</li>
-                <ul>
-                    <li>C/C++</li>
-		            <li>Java</li>
-	                <li>Python</li>
-                </ul>
-                <li>Programming Languages Applicable to both fields</li>
-                <ul>
-                    <li>Lisp</li>
-		            <li>Perl</li>
-	                <li>Haskell</li>
-                </ul>
-            </ol>
-        </p>
+        
+        <!-- Links -->
+        <center>
+            <a href="http://dvlprlx.github.io/">Home</a>
+            <a href="http://dvlprlx.github.io/about.html">About</a>
+            <a href="http://dvlprlx.github.io/entries.html">Entries</a>
+            <a href="http://dvlprlx.github.io/programs-made.html">Programs Made</a>
+        </center>
     </body>
 
 </html>

@@ -6,6 +6,13 @@ body {
     line-height: 24px;
 }
 
-#introduction {
-    
+a:link {
+    color: lightgreen;
+    text-decoration: none;
+}
+a:hover {
+    color: darkgreen;
+}
+a:visited {
+    color: yellowgreen;
 }
