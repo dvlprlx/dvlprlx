@@ -26,7 +26,7 @@
         <!-- Follow me -->
         <div class="follow-me">
             <p class="follow-me">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Follow me</p>
+                &nbsp;&nbsp;&nbsp;Follow me</p>
             <iframe src="http://ghbtns.com/github-btn.html?user=dvlprlx&repo=dvlprlx&count=true&type=follow"
                 allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20">
             </iframe></div>

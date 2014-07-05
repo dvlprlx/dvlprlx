@@ -28,7 +28,12 @@ p.dashed-note {
 }
 
 div.follow-me {
-    border: 5px gray solid;
-    width: 130px;
+    border: 5px gray;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-left-style: solid;
+    border-right-style: solid;
+    
+    width: 135px;
     padding: 5px;
 }
