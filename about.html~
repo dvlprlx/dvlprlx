@@ -24,12 +24,13 @@
       <!-- Welcome text -->
       
       <p align="center" class="dashed-note">
-        This is where the information about me and this site is found. 
+        This is where the information about me and this site is found and
+        it will contain nothing for the time being. 
           
       <br/></p>
       
       <footer>
-        <hr/>
+        <hr color="darkgreen"/>
         <p align="center">
           Copyright 2014 - 2014 by dvlprlx.<br/><br/>
           All rights reserved.</p>

@@ -23,7 +23,12 @@ p.dashed-note {
     width: 512px;
     padding: 5px;
     
-    margin-left:250px;
+    margin-left:320px;
     
 }
 
+div.follow-me {
+    border: 5px gray solid;
+    width: 130px;
+    padding: 5px;
+}
