@@ -7,10 +7,9 @@ body {
 a:link {
     color: black;
     margin:10px;
-    text-decoration: none;
 }
 a:hover {
-    color: white;
+    color: black;
 }
 a:visited {
     color: blue;
