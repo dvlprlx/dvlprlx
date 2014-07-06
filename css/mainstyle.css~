@@ -48,6 +48,6 @@ div.main-links {
     border-left-style: solid;
     border-right-style: solid;
     
-    width: 200px;
+    width: 500px;
     padding: 5px;
 }
