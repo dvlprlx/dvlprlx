@@ -16,17 +16,18 @@
         
       <header>
         <!-- Links -->
-        <a href="http://dvlprlx.github.io/">dvlprlx</a>
-        <a href="http://dvlprlx.github.io/about.html">About</a>
-        <a href="http://dvlprlx.github.io/entries.html">Entries</a>
-        <a href="http://dvlprlx.github.io/projects.html">Projects</a>
-        
+        <div class="main-links">
+            <a href="http://dvlprlx.github.io/">dvlprlx</a>
+            <a href="http://dvlprlx.github.io/about.html">About</a>
+            <a href="http://dvlprlx.github.io/entries.html">Entries</a>
+            <a href="http://dvlprlx.github.io/projects.html">Projects</a>
+        </div>
         <br><br>
         
         <!-- Follow me -->
         <div class="follow-me">
             <p class="follow-me">
-                &nbsp;&nbsp;&nbsp;Follow me</p>
+                &nbsp;&nbsp;&nbsp;&nbsp;Follow me</p>
             <iframe src="http://ghbtns.com/github-btn.html?user=dvlprlx&repo=dvlprlx&count=true&type=follow"
                 allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20">
             </iframe></div>
@@ -52,6 +53,12 @@
           
       <br/></p>
       
+      <script>
+        $.getJSON('projects.html', function(data) {
+            data =data.html.replace(/\n/g, "<br>"); 
+        $(data).appendTo("#success"); } );
+      </script>
+
       <footer>
         <hr color="darkgreen""/>
         <p align="center">

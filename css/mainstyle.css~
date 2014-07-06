@@ -6,7 +6,6 @@ body {
 
 a:link {
     color: lightgreen;
-    font-size:24px;
     margin:10px;
     text-decoration: none;
 }
@@ -29,11 +28,26 @@ p.dashed-note {
 
 div.follow-me {
     border: 5px gray;
-    border-top-style: dashed;
+    border-top-style: dotted;
     border-bottom-style: dashed;
     border-left-style: solid;
     border-right-style: solid;
     
     width: 135px;
+    padding: 5px;
+}
+
+div.main-links {
+    font-size:24px;
+}
+
+#mission-set1 {
+    border: 5px gray;
+    border-top-style: dotted;
+    border-bottom-style: dashed;
+    border-left-style: solid;
+    border-right-style: solid;
+    
+    width: 200px;
     padding: 5px;
 }
