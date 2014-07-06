@@ -1,6 +1,6 @@
 body {
     background-color: royalblue;
-    color: black;
+    color: darkyellow;
     font-family: monospace;
 }
 
