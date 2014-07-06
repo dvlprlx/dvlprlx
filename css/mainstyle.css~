@@ -12,6 +12,9 @@ a:link {
 a:hover {
     color: darkgreen;
 }
+a:inactive {
+    color: red;
+}
 a:visited {
     color: yellowgreen;
 }
